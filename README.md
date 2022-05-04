@@ -14,13 +14,13 @@ In this repository contains code for an E-commerce backend website.  The code cr
 ---
 
 ## Installation and How to Use
-C
+
 Download or clone the codebase from github. You will need to have Node.js and MySQL installed as well. In the root directory of the project, find the ".env.EXAMPLE" file. Remove the ".EXAMPLE" from the name. Open up the .env file and input your MySQL Username, password, and ecommerce_db for the DB_NAME. At the root directory run "npm install" to install the necessary packages. To setup the database, launch your mysql shell from the root directory of the project and run "source db/schema.sql" to create the ecommerce_db. Quit out of the MySQL shell after this is done. At the root directory of the project run "npm run seed" to seed the database. Finally, run "npm start" to launch the server. With the server running you are able to execute any of the routes created to interact with the database.
 
 ---
 
 ## Walkthrough Video
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1RjuORoymj46LqD5AR3raRE6D_vv5B4zL/view)
 
 ---
 
